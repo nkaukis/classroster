@@ -21,4 +21,4 @@ This is the pinned class roster (doubling as the first in-class assignment).
 
 |     Full Name           | Github username | Slack username | IU ID |
 |-------------------------|-----------------|----------------|---------------|
-| Nicholas Kaukis        | NickAtIU        | drnick       | nick |
+| Nicholas Kaukis        | NickAtIU        | NickAtIU       | nick |
