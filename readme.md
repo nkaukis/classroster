@@ -19,6 +19,7 @@ This is the pinned class roster (doubling as the first in-class assignment).
     
 3. Use Rstudio on your machine (do not edit it on the website, I can tell the difference) to fill in your name, github username, slack username, and IU ID (your email handle, not the 10 digit number) in the table below. See my example. (This is IC1: worth 5 points).
 
+
 |     Full Name           | Github username | Slack username | IU ID |
 |-------------------------|-----------------|----------------|---------------|
-| Nicholas Kaukis        | NickAtIU        | NickAtIU       | nick |
+|                         |                 |                |               |
