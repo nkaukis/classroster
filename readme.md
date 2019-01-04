@@ -22,4 +22,4 @@ This is the pinned class roster (doubling as the first in-class assignment).
 
 |     Full Name           | Github username | Slack username | IU ID |
 |-------------------------|-----------------|----------------|---------------|
-|                         |                 |                |               |
+|Test |test |test |test |
